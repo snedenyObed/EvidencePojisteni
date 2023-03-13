@@ -1,0 +1,45 @@
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.exe
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.deps.json
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.runtimeconfig.json
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.dll
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.pdb
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.dll
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\refint\EvidencePojisteni.dll
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.pdb
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Vše\IT kurz\VPF (okenní aplikace ve Win\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\ref\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.exe
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.deps.json
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.runtimeconfig.json
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.pdb
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\refint\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.pdb
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Vše\IT kurz\Projekty\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\ref\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.exe
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.deps.json
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.runtimeconfig.json
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\bin\Debug\net6.0\EvidencePojisteni.pdb
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.AssemblyReference.cache
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfoInputs.cache
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.AssemblyInfo.cs
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.csproj.CoreCompileInputs.cache
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\refint\EvidencePojisteni.dll
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.pdb
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\EvidencePojisteni.genruntimeconfig.cache
+C:\Vše\IT kurz\Projekty\Verze pro git\EvidencePojisteni\EvidencePojisteni\obj\Debug\net6.0\ref\EvidencePojisteni.dll
